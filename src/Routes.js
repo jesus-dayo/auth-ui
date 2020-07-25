@@ -19,6 +19,7 @@ const Routes = () =>{
           return <Redirect to={'/'} />;
         }
         // TODO: if token if not empty, call a new service authToken to check if token still valid
+        console.log("home");
         return <HomePage {...routeProps} />;
       }}
     />
