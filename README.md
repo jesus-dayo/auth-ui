@@ -1,7 +1,7 @@
-## AirAsia Challenge UI
+
 
 This project is deployed in Heroku and is a simple GUI
-to integrate with the AirAsia Auth API
+to integrate with the Auth API
 
 ### `Highlevel Architecture`
 ![architecture](https://github.com/jesus-dayo/airasia-ui/blob/master/authdiagram.png?raw=true)
